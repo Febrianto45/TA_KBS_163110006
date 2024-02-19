@@ -1,0 +1,5 @@
+body{background: wheat url(https://subtlepatterns.com/patterns/geometry2.png);}
+html,body{
+    position: relative;
+    height: 100%;
+}
