@@ -12,13 +12,16 @@ Lifelong Learner, currently working as budagh kompeni.
 🌀 #10. "Belajar Fundamental Front-End Web Development"
 
 <p align='center'>
-  <a href="https://nodejs.org/en/">
+  <a href="https://php.org/en/">
     <img src="https://img.shields.io/badge/php-43853D?style=for-the-badge&logo=php&logoColor=white"/></a>&nbsp;&nbsp;
-  <a href="https://getbootstrap.com/">
+<a href="https://getbootstrap.com/">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>&nbsp;&nbsp;
-  <a href="https://www.javascript.com/">
+<a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>&nbsp;&nbsp;
+<a href="https://www.css.com/">
+    <img src="https://img.shields.io/badge/css-F7DF1E?style=for-the-badge&logo=css&logoColor=black"/></a>&nbsp;&nbsp;
 </p>
+        
 ### <summary><strong>Yosh!</strong></summary>
 <p>
     - :keyboard: I’m currently web. </br>
