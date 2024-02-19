@@ -24,6 +24,6 @@ Lifelong Learner, currently working as budagh kompeni.
 <a href="https://www.instagram.com/febrianto078.id/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://febrianto078-id/">
+<a href="https://in/febrianto078-id/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
