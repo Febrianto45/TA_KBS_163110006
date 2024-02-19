@@ -19,7 +19,7 @@ Lifelong Learner, currently working as budagh kompeni.
 <a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>&nbsp;&nbsp;
 <a href="https://www.css.com/">
-    <img src="https://img.shields.io/badge/css-F7DF1E?style=for-the-badge&logo=css&logoColor=black"/></a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp;&nbsp;
 </p>
         
 ### <summary><strong>Yosh!</strong></summary>
