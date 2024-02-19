@@ -8,8 +8,8 @@ Lifelong Learner, currently working as budagh kompeni.
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-# Submission Belajar Fundamental Front-End Web Development
-🌀 #10. "Belajar Fundamental Front-End Web Development"
+# Belajar Sistem Informasi Penjualan Front-End/back-end Web Development
+🌀 #10. "Belajar Sistem Informasi Penjualan Front-End/back-end Web Development"
 
 <p align='center'>
   <a href="https://php.org/en/">
@@ -23,15 +23,6 @@ Lifelong Learner, currently working as budagh kompeni.
 <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp;&nbsp;
 </p>
-        
-### <summary><strong>Yosh!</strong></summary>
-<p>
-    - :keyboard: I’m currently web. </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:febrianto078@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing and writing are part of me. </br>
-<p>
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://twitter.com/febrianto969">
