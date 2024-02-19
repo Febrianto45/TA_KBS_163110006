@@ -10,20 +10,20 @@ Lifelong Learner, currently working as budagh kompeni.
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
+    - :keyboard: I’m currently web. </br>
     - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
+    - :mailbox: How to reach me: <a href="mailto:febrianto078@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: She/Her. </br>
     - :game_die: Drawing and writing are part of me. </br>
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/yours">
+<a href="https://twitter.com/febrianto969">
   <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
-<a href="https://www.instagram.com/yours/">
+<a href="https://www.instagram.com/febrianto078.id/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://yours.com/">
+<a href="https://febrianto078-id/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
