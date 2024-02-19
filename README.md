@@ -8,6 +8,17 @@ Lifelong Learner, currently working as budagh kompeni.
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
+# Submission Belajar Fundamental Front-End Web Development
+🌀 #10. "Belajar Fundamental Front-End Web Development"
+
+<p align='center'>
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/php-43853D?style=for-the-badge&logo=php&logoColor=white"/></a>&nbsp;&nbsp;
+  <a href="https://getbootstrap.com/">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>&nbsp;&nbsp;
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>&nbsp;&nbsp;
+</p>
 ### <summary><strong>Yosh!</strong></summary>
 <p>
     - :keyboard: I’m currently web. </br>
@@ -24,6 +35,6 @@ Lifelong Learner, currently working as budagh kompeni.
 <a href="https://www.instagram.com/febrianto078.id/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://in/febrianto078-id/">
+<a href="https://www.linkedin.com/febrianto078-id/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
